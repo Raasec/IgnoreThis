@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Typescript**
 
-- 📫 How to reach me **viraecesarosu@gmail.com**
+- 📫 How to reach me: **viraecesarosu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
